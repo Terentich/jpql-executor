@@ -1,0 +1,1 @@
+java -classpath  "*";%1 ${mainclass} %2 %3
